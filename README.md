@@ -11,12 +11,7 @@
 
 
 ## Features
-
-- Best Streaming Quality (320kbps aac)
-- Song, Album, Artist and Playlist Search
-
-and much more...
-Check it yourself :)
+Check it yourself ;)
 
 ## TODO
 - back-end ;)
@@ -27,9 +22,9 @@ Check it yourself :)
 - On boarding widgets
 
 ## Additional Info
-All the resources (images, icons) are taken on the web (freepik, google images, ...) so You can't use those resources to build a real commercial App.
-The description of the products food are made in italian (just simple dummy text).
-Graphic template seen on Envato Elements ;)
+All resources (images, icons) are taken on the web (freepik, google images, ...) so You can't use those resources to build a real commercial App.
+The products description are made in italian (just simple dummy text).
+Graphic template on Envato Elements ;)
 
 ## Building from Source
 
