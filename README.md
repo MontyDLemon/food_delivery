@@ -29,22 +29,6 @@ All resources (images, icons) are taken on the web (freepik, google images, ...)
 The products description are made in italian (just simple dummy text).
 Graphic template on Envato Elements ;)
 
-## Building from Source
-
-1. If you don't have Flutter SDK installed, please visit official [Flutter](https://flutter.dev/) site.
-2. Fetch latest source code from master branch.
-
-```
-git clone https://github.com/MontyDLemon/food_delivery.git
-```
-
-3. Run the app with Android Studio or VS Code. Or the command line:
-
-```
-flutter pub get
-flutter run
-```
-
 ## Screenshots
 
 - Home Page<br>
@@ -64,3 +48,20 @@ flutter run
 
 - Cart Page<br>
 <img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/cart_si.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/cart_no.png" width="32%">
+
+
+## Building from Source
+
+1. If you don't have Flutter SDK installed, please visit official [Flutter](https://flutter.dev/) site.
+2. Fetch latest source code from master branch.
+
+```
+git clone https://github.com/MontyDLemon/food_delivery.git
+```
+
+3. Run the app with Android Studio or VS Code. Or the command line:
+
+```
+flutter pub get
+flutter run
+```
