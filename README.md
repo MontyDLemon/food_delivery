@@ -47,6 +47,20 @@ flutter run
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/main3.png" width="32%" class="padding"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/burger_detail.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/detail_pizza.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/menu1.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/menu2.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/menu3.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/favorite_page.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/popular.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/popular_salad.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/cart_no.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/cart_si.png" width="32%">
+- Home Page<br>
+<img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/main3.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/main2.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/main1.png" width="32%">
 
-<!--width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6.png?raw=true" width="32%" -->
+- Detail Food Page<br>
+<img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/burger_detail.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/detail_pizza.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/detail_fr.png" width="32%">
+
+- Favorite food Page<br>
+<img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/favorite_page.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/favorite_no.png" width="32%">
+
+- Menu Page<br>
+<img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/menu1.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/menu2.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/menu3.png" width="32%">
+
+- Popular Page<br>
+<img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/popular.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/popular_salad.png" width="32%">
+
+- Cart Page<br>
+<img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/cart_si.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/cart_no.png" width="32%">
