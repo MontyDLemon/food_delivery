@@ -2,7 +2,7 @@
 
 # Food Delivery App
 
-![Repo Banner](https://github.com/MontyDLemon/food_delivery/tree/main/app_screenshot/food_delivery_home.png?raw=true")
+<img src="https://github.com/MontyDLemon/food_delivery/tree/main/app_screenshot/food_delivery_home.png?raw=true">
 
 # Available on Android / IOS
 
