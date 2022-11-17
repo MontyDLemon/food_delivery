@@ -48,10 +48,10 @@ flutter run
 ## Screenshots
 
 - Home Page<br>
-<img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/main3.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/main2.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/main1.png" width="32%">
+<img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/main1.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/main3.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/main2.png" width="32%">
 
 - Detail Food Page<br>
-<img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/burger_detail.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/detail_pizza.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/detail_fr.png" width="32%">
+<img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/burger_detail.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/detail_pizza.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/detailfr.png" width="32%">
 
 - Favorite food Page<br>
 <img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/favorite_page.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/favorite_no.png" width="32%">
