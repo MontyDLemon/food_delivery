@@ -1,18 +1,13 @@
 
 
-# Food Delivery App
+## Food Delivery App
 
-<img src="https://github.com/MontyDLemon/food_delivery/tree/main/app_screenshot/food_delivery_home.png?raw=true">
+<img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/food_delivery_home.png" width="600px" height="800px">
 
-# Available on Android / IOS
+## Available on Android / IOS
 
 [![made-with-flutter](https://img.shields.io/badge/Made%20with-Flutter-1f425f.svg)](https://flutter.dev/)
 
-## Screenshots
-
-<img src="https://github.com/MontyDLemon/food_delivery/tree/main/app_screenshot/burger_detail.png?raw=true">
-
-<!--width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6.png?raw=true" width="32%" -->
 
 ## Package
 - Provider
@@ -49,3 +44,9 @@ git clone https://github.com/
 flutter pub get
 flutter run
 ```
+
+## Screenshots
+
+<img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/main3.png" width="32%" class="padding"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/burger_detail.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/detail_pizza.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/menu1.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/menu2.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/menu3.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/favorite_page.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/popular.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/popular_salad.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/cart_no.png" width="32%"><img src="https://raw.githubusercontent.com/MontyDLemon/food_delivery/main/app_screenshot/cart_si.png" width="32%">
+
+<!--width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6.png?raw=true" width="32%" -->
